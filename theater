@@ -3,4 +3,5 @@ void main()
 cout<<"this module is for the organiser or the movie theater personel for the feedback purpose";
 cout<<"please rate your movie with movie name";
 cout<<"please provide feedback";
+cout<<"edit changes";
 }
